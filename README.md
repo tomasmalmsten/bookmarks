@@ -39,3 +39,17 @@ Refactoring - The web site.
 [WireMock](http://wiremock.org/) - a tool to mock out REST APIs of external systems.
 
 [Pact](https://docs.pact.io/) - API Contract based testing, supported by [Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/) and others. (It may be possible to use this output to create a WireMock server, seems likely but haven't checked)
+
+adr - a command line tool to work with adr's. Create, update, supersede in a numbered manner. From Nat Pryce - https://github.com/npryce/adr-tools
+
+edison-hal - a competing, and according to Shopey considerably better, link tool then for example spring-hateos - https://github.com/otto-de/edison-hal
+
+http://deckdown.org/ - creates slidedecks from Markdown files - online tool.
+
+Forecasting for beginners - how to forecast delivery: https://www.infoq.com/presentations/forecasting-spreadsheet?utm_source=infoqemail&utm_medium=culture-methods&utm_campaign=newsletter&utm_content=07242018
+
+[Pratical Guide to Build an API Backend with Spring Boot](https://www.infoq.com/minibooks/spring-boot-building-api-backend) - InfoQ mini book
+
+[Defense in Depth](https://www.infoq.com/presentations/defense-in-depth?utm_source=infoqemail&utm_medium=architecture-design&utm_campaign=newsletter&utm_content=11062018) - 40min talk.
+
+Github has done some work on how to incorporate employees interests into their IP policy. https://github.com/blog/2337-work-life-balance-in-employee-intellectual-property-agreements
