@@ -1,5 +1,5 @@
 # bookmarks
-A collections of bookmarks to interesting stuff, some read, some not. So the content a the end of the link may not be of value.
+A collections of bookmarks to interesting stuff, some read or watched, some not. So the content at the end of the link may not be of value, but it probably is.
 
 https://rdmueller.github.io/docToolchain/ - ASCIDoc code documentation tool chain for "docs as code" and "arc42", and perhaps Architecture in the code (Simon Browns work).
 
