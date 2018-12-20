@@ -61,6 +61,10 @@ Github has done some work on how to incorporate employees interests into their I
 
 [55 New Features in JDK 9](https://www.infoq.com/presentations/55-new-features-jdk-9) - Simon Ritter discusses some of the new features in JDK 9.
 
+[JDK 9, 10, 11 and beyond](https://www.infoq.com/presentations/jdk-9-10-11-12-13-14?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=11132018) - Presentation from SprinOne by Simon Ritter
+
+[Spring 5.1 and upgrade to Java 11](https://www.infoq.com/presentations/spring-5-1-jdk-8-11?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=11062018) - from SpringOne 2018
+
 [Hands On with Clojure](http://oredev.org/oredev2013/2013/wed-fri-conference/hands-on-with-clojure.html) - Bodil Stokke; Of all the strange new JVM languages, Clojure, with its roots in the alien world of Lisp, may well be the strangest. It is also, its proponents insist, by far the most powerful. They'll show you weird and incomprehensible proofs of this—macros, lazy lists, monads, what have you—that may well send academics into orgies of rapturous debate, but the question always remains: "does this have any real world application at all, or are you all just geeking out on us?"
 
 [Programming, Only Better](http://oredev.org/oredev2013/2013/wed-fri-conference/programming-only-better.html - Bodil Stokke; Have you noticed that in spite of all our oft repeated Best Practices, those bugs don't seem to stop coming back no matter how many tests we write, that pile of technical debt still seems to keep growing no matter how much we refactor, and we keep missing those deadlines no matter how we organise our scrum board?
