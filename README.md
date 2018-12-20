@@ -54,7 +54,7 @@ Forecasting for beginners - how to forecast delivery: https://www.infoq.com/pres
 
 Github has done some work on how to incorporate employees interests into their IP policy. https://github.com/blog/2337-work-life-balance-in-employee-intellectual-property-agreements
 
-##Kotlin related stuff
+## Kotlin related stuff
 https://www.infoq.com/articles/intro-kotlin-java-developers?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=10162018 - article from InfoQ.
 
 https://www.infoq.com/presentations/kotlin-language-tour?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=10162018 - talk from InfoQ.
