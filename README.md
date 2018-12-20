@@ -153,3 +153,9 @@ Here is the GitHub organisation for ADRs: https://adr.github.io (I.E. a communit
 [Another high level pitch, perhaps more for developers](https://techbeacon.com/why-you-need-domain-driven-design) - from TechBeacon
 
 [Yet another high level pitch](https://blog.goyello.com/2011/12/18/introduction-to-domain-driven-design/), with a brief introduction to some of the patterns.
+
+## Some stuff on #noprojects and similar
+
+[Author Q&A on the Book Project to Product by Mik Kersten](https://www.infoq.com/articles/book-project-to-product?utm_source=infoqemail&utm_medium=culture-methods&utm_campaign=newsletter&utm_content=12182018)
+
+[InfoQ eMag: #noprojects](https://www.infoq.com/minibooks/emag-noprojects)
