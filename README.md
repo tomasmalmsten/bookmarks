@@ -161,3 +161,10 @@ Here is the GitHub organisation for ADRs: https://adr.github.io (I.E. a communit
 [Author Q&A on the Book Project to Product by Mik Kersten](https://www.infoq.com/articles/book-project-to-product?utm_source=infoqemail&utm_medium=culture-methods&utm_campaign=newsletter&utm_content=12182018)
 
 [InfoQ eMag: #noprojects](https://www.infoq.com/minibooks/emag-noprojects)
+
+## Languages that would be interesting to know more about
+[Elixir](https://elixir-lang.org)
+
+[Kotlin](https://kotlinlang.org)
+
+[R](https://www.r-project.org)
