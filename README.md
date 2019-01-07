@@ -28,6 +28,9 @@ Refactoring - The web site.
 * [Defense in Depth](https://www.infoq.com/presentations/defense-in-depth?utm_source=infoqemail&utm_medium=architecture-design&utm_campaign=newsletter&utm_content=11062018) - 40min talk.
 * Github has done some work on how to incorporate employees interests into their IP policy. https://github.com/blog/2337-work-life-balance-in-employee-intellectual-property-agreements
 * [OpenAPI specification](https://www.openapis.org/)
+* [Chaos Engineering - InfoQ eMag](https://www.infoq.com/minibooks/emag-chaos-engineering)
+* [Java's Service Loader - howto guide to create a Java Module service](https://www.infoq.com/articles/java11-aware-service-module)
+* [Upbound - a multi cloud provider API](https://www.infoq.com/news/2019/01/upbound-crossplane)
 
 ## Some random talks
 * [Data visualisation with R](https://www.infoq.com/presentations/r-data-visualization?utm_source=twitter&utm_campaign=calendar&utm_medium=link) - Matthew Renze introduces the R programming language as well as demonstrates how R can be used to create data visualizations to complete day-to-day developer tasks.
