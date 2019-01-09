@@ -31,6 +31,7 @@ Refactoring - The web site.
 * [Chaos Engineering - InfoQ eMag](https://www.infoq.com/minibooks/emag-chaos-engineering)
 * [Java's Service Loader - howto guide to create a Java Module service](https://www.infoq.com/articles/java11-aware-service-module)
 * [Upbound - a multi cloud provider API](https://www.infoq.com/news/2019/01/upbound-crossplane)
+* [mkcert](https://github.com/FiloSottile/mkcert) and [blog about it](https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/) - is a tool to create valid https certificates for localhost (and other selected hosts) that only works lokaly but are fully trusted, like a propper CA certificate.
 
 ## Some random talks
 * [Data visualisation with R](https://www.infoq.com/presentations/r-data-visualization?utm_source=twitter&utm_campaign=calendar&utm_medium=link) - Matthew Renze introduces the R programming language as well as demonstrates how R can be used to create data visualizations to complete day-to-day developer tasks.
