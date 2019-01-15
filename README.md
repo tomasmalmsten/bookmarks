@@ -48,8 +48,6 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [mkcert](https://github.com/FiloSottile/mkcert) and [blog about it](https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/) - is a tool to create valid https certificates for localhost (and other selected hosts) that only works lokaly but are fully trusted, like a propper CA certificate.
 * [Dagger](https://google.github.io/dagger/) - a static compile-time annotation driven dependency injection framework for Java and Android, should also work with Kotlin.
 * [AssertJ](http://joel-costigliola.github.io/assertj/) is an assertion library for Java, kinda like [Hamcrest](http://hamcrest.org/JavaHamcrest/) but different. I need to try this out, it maight be better then Hamcrest, which is what I'm used to.
-* [Best Practices for Unit Testing in Kotlin](https://blog.philipphauer.de/best-practices-unit-testing-kotlin/) is a rather
-  informative blog post on how to work with unit tests in Kotlin.
 
 ## Some random talks
 * [Data visualisation with R](https://www.infoq.com/presentations/r-data-visualization?utm_source=twitter&utm_campaign=calendar&utm_medium=link) - Matthew Renze introduces the R programming language as well as demonstrates how R can be used to create data visualizations to complete day-to-day developer tasks.
@@ -88,9 +86,14 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [A Comment on how we learn](https://www.youtube.com/watch?v=Y7TQ5kW42bI) - by Aino Vonge Corry; Aino Vonge Corry about her session "A Comment on how we learn": As an expert you will be asked to facilitate the learning of others, not to mention your personal eternal learning in your field. Join an interactive session about how our brains accept new knowledge and store it for later use. Your take-away will be three-fold; how to chunk information you give to others, how to improve your own learning AND something to entertain with at dull parties.
 
 ## Kotlin related stuff
-* https://www.infoq.com/articles/intro-kotlin-java-developers?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=10162018 - article from InfoQ.
-* https://www.infoq.com/presentations/kotlin-language-tour?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=10162018 - talk from InfoQ.
-* https://www.infoq.com/presentations/spring-kotlin?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=12182018 - talk from InfoQ about useful technics when going from Java to Kotlin.
+* https://www.infoq.com/articles/intro-kotlin-java-developers?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=10162018
+  - article from InfoQ.
+* https://www.infoq.com/presentations/kotlin-language-tour?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=10162018
+  - talk from InfoQ.
+* https://www.infoq.com/presentations/spring-kotlin?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=12182018
+  - talk from InfoQ about useful technics when going from Java to Kotlin.
+* [Best Practices for Unit Testing in Kotlin](https://blog.philipphauer.de/best-practices-unit-testing-kotlin/) is a rather
+  informative blog post on how to work with unit tests in Kotlin.
 
 ## Archetectrual Decision Records
 * ADR - Architecture Decision Record - A pattern like format for capturing architecture decisions: http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
