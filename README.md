@@ -94,6 +94,7 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
   - talk from InfoQ about useful technics when going from Java to Kotlin.
 * [Best Practices for Unit Testing in Kotlin](https://blog.philipphauer.de/best-practices-unit-testing-kotlin/) is a rather
   informative blog post on how to work with unit tests in Kotlin.
+* [MockK](https://mockk.io) - mocking library for Kotlin.
 
 ## Archetectrual Decision Records
 * ADR - Architecture Decision Record - A pattern like format for capturing architecture decisions: http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
