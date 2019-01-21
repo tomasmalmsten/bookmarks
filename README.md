@@ -125,8 +125,8 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [R](https://www.r-project.org)
 
 ## HA and Zero Downtime
-[Zero Downtime upgrade patterns](http://lucasmatt.com/2016/03/04/2016-03-04-zero-downtime-upgrade-patterns/) - by Matthew Lucas
-[Blue Green Deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html) from Martin Fowlers bliki.
+* [Zero Downtime upgrade patterns](http://lucasmatt.com/2016/03/04/2016-03-04-zero-downtime-upgrade-patterns/) - by Matthew Lucas
+* [Blue Green Deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html) from Martin Fowlers bliki.
 
 ## JDKs
 * [Amazon Corretto](https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/what-is-corretto-8.html) Seems to be a JDK8 with LTS, security and fixes included for free. Currently in preview, and have not reviewd the licence terms.
