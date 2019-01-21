@@ -113,6 +113,7 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [A high level introduction to DDD](https://techbeacon.com/get-your-feet-wet-domain-driven-design-3-guiding-principles) - from TechBeacon
 * [Another high level pitch, perhaps more for developers](https://techbeacon.com/why-you-need-domain-driven-design) - from TechBeacon
 * [Yet another high level pitch](https://blog.goyello.com/2011/12/18/introduction-to-domain-driven-design/), with a brief introduction to some of the patterns.
+* [Event Sourcing: What is is and why it's awesome](https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome) - rather informative blog post on ES.
 
 ## Some stuff on #noprojects and similar
 * [Author Q&A on the Book Project to Product by Mik Kersten](https://www.infoq.com/articles/book-project-to-product?utm_source=infoqemail&utm_medium=culture-methods&utm_campaign=newsletter&utm_content=12182018)
@@ -122,6 +123,10 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [Elixir](https://elixir-lang.org)
 * [Kotlin](https://kotlinlang.org)
 * [R](https://www.r-project.org)
+
+## HA and Zero Downtime
+[Zero Downtime upgrade patterns](http://lucasmatt.com/2016/03/04/2016-03-04-zero-downtime-upgrade-patterns/) - by Matthew Lucas
+[Blue Green Deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html) from Martin Fowlers bliki.
 
 ## JDKs
 * [Amazon Corretto](https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/what-is-corretto-8.html) Seems to be a JDK8 with LTS, security and fixes included for free. Currently in preview, and have not reviewd the licence terms.
