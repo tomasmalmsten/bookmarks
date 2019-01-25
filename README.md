@@ -133,3 +133,8 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [AdoptOpenJDK](https://adoptopenjdk.net)
 * [Zing](https://www.azul.com/products/zing/) Azul's JDK
 * [OpenJDK Home](http://openjdk.java.net)
+
+## System Thinking
+* [Thinking in Systems, a primer](http://donellameadows.org/systems-thinking-book-sale/) is a very good introductory book on Systems Thinking by Donella H. Meadows.
+* [The System Thinker](https://thesystemsthinker.com/) is a site set up to share knowladge about Systems Thinking.
+* [Guide for Drawing Causal Loop Diagrams](https://thesystemsthinker.com/guidelines-for-drawing-causal-loop-diagrams-2/) from The System Thinker.
