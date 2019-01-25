@@ -138,3 +138,4 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [Thinking in Systems, a primer](http://donellameadows.org/systems-thinking-book-sale/) is a very good introductory book on Systems Thinking by Donella H. Meadows.
 * [The System Thinker](https://thesystemsthinker.com/) is a site set up to share knowladge about Systems Thinking.
 * [Guide for Drawing Causal Loop Diagrams](https://thesystemsthinker.com/guidelines-for-drawing-causal-loop-diagrams-2/) from The System Thinker.
+* [From Event Thinking to Systems Thinking](https://thesystemsthinker.com/from-event-thinking-to-systems-thinking/) - how to understand and deal with reoccuring patterns. Uses a case study of continuous late launces to describe a better way to understand why and how to deal with it.
