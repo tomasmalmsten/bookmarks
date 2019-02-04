@@ -114,6 +114,7 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [Another high level pitch, perhaps more for developers](https://techbeacon.com/why-you-need-domain-driven-design) - from TechBeacon
 * [Yet another high level pitch](https://blog.goyello.com/2011/12/18/introduction-to-domain-driven-design/), with a brief introduction to some of the patterns.
 * [Event Sourcing: What is is and why it's awesome](https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome) - rather informative blog post on ES.
+* [Don't let the Internet Dupe you, Event Sourcing is Hard](https://chriskiehl.com/article/event-sourcing-is-hard) - explaining some of the pitfialls with Event Sourcing.
 
 ## Some stuff on #noprojects and similar
 * [Author Q&A on the Book Project to Product by Mik Kersten](https://www.infoq.com/articles/book-project-to-product?utm_source=infoqemail&utm_medium=culture-methods&utm_campaign=newsletter&utm_content=12182018)
