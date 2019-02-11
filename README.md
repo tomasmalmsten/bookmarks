@@ -48,6 +48,7 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [mkcert](https://github.com/FiloSottile/mkcert) and [blog about it](https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/) - is a tool to create valid https certificates for localhost (and other selected hosts) that only works lokaly but are fully trusted, like a propper CA certificate.
 * [Dagger](https://google.github.io/dagger/) - a static compile-time annotation driven dependency injection framework for Java and Android, should also work with Kotlin.
 * [AssertJ](http://joel-costigliola.github.io/assertj/) is an assertion library for Java, kinda like [Hamcrest](http://hamcrest.org/JavaHamcrest/) but different. I need to try this out, it maight be better then Hamcrest, which is what I'm used to.
+* [Docs as Code](https://docs-as-co.de) - A site dedicated to working with documentation as an automated part of the build cycle. Tooling and adivce.
 
 ## Some random talks
 * [Data visualisation with R](https://www.infoq.com/presentations/r-data-visualization?utm_source=twitter&utm_campaign=calendar&utm_medium=link) - Matthew Renze introduces the R programming language as well as demonstrates how R can be used to create data visualizations to complete day-to-day developer tasks.
