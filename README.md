@@ -14,7 +14,7 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * https://smallstep.com/blog/zero-trust-swiss-army-knife.html - Zero trust security tooling
 * https://www.infoq.com/articles/java-serialization-aug18?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=java 
   - About Java's Serialisation issues and possible remedies for it
-* Contact Testing - using Spring Cloud Contract:
+* Contract Testing - using Spring Cloud Contract:
   https://www.infoq.com/articles/contract-testing-spring-cloud-contract?utm_source=infoqEmail&utm_medium=SpecialNL_EditorialContent&utm_campaign=08092018_SpecialNL&forceSponsorshipId=1622
 * Microservice Websites - https://gustafnk.github.io/microservice-websites/ - By Gustaf Nilsson Kotte - working with
   Microservices frontends at IKEA. A lot of interesting ideas and thought both on frontend constraints and on a
@@ -49,6 +49,9 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [Dagger](https://google.github.io/dagger/) - a static compile-time annotation driven dependency injection framework for Java and Android, should also work with Kotlin.
 * [AssertJ](http://joel-costigliola.github.io/assertj/) is an assertion library for Java, kinda like [Hamcrest](http://hamcrest.org/JavaHamcrest/) but different. I need to try this out, it maight be better then Hamcrest, which is what I'm used to.
 * [Docs as Code](https://docs-as-co.de) - A site dedicated to working with documentation as an automated part of the build cycle. Tooling and adivce.
+* [Building Evolutionary Architectures](http://evolutionaryarchitecture.com/)
+* [Impact Mapping](https://www.impactmapping.org)
+
 
 ## Some random talks
 * [Data visualisation with R](https://www.infoq.com/presentations/r-data-visualization?utm_source=twitter&utm_campaign=calendar&utm_medium=link) - Matthew Renze introduces the R programming language as well as demonstrates how R can be used to create data visualizations to complete day-to-day developer tasks.
@@ -136,7 +139,7 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [Zing](https://www.azul.com/products/zing/) Azul's JDK
 * [OpenJDK Home](http://openjdk.java.net)
 
-## System Thinking
+## Systems Thinking
 * [Thinking in Systems, a primer](http://donellameadows.org/systems-thinking-book-sale/) is a very good introductory book on Systems Thinking by Donella H. Meadows.
 * [The System Thinker](https://thesystemsthinker.com/) is a site set up to share knowladge about Systems Thinking. There is so much good stuff here you must not miss it!
 * [Guide for Drawing Causal Loop Diagrams](https://thesystemsthinker.com/guidelines-for-drawing-causal-loop-diagrams-2/) from The System Thinker.
