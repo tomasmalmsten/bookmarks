@@ -147,3 +147,5 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 
 ## Patterns
 [EuroPLoP's pattern repository listing](http://europlop.net/content/repositories)
+[Hillside's patter repository listing](https://hillside.net/patterns/patterns-catalog)
+
