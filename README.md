@@ -149,3 +149,5 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 [EuroPLoP's pattern repository listing](http://europlop.net/content/repositories)
 [Hillside's patter repository listing](https://hillside.net/patterns/patterns-catalog)
 
+## Slightly more unorganised stuff of interest, but not strictly relating to software in any way
+[Thwink.org](http://thwink.org/index.htm) - Finding and Resolving the Root Cause of the Sustainability Problem. Not quite sure what this is but needs to be looked at, seems interesting.
