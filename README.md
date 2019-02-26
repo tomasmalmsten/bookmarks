@@ -35,7 +35,7 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
   on TDD as a design tool, where he argues it's not!
 * [WireMock](http://wiremock.org/) - a tool to mock out REST APIs of external systems.
 * [Pact](https://docs.pact.io/) - API Contract based testing, supported by [Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/) and others. (It may be possible to use this output to create a WireMock server, seems likely but haven't checked)
-* edison-hal - a competing, and according to Shopey considerably better, link tool then for example spring-hateos - https://github.com/otto-de/edison-hal
+* edison-hal - a competing, and according to some considerably better, link tool then for example spring-hateos - https://github.com/otto-de/edison-hal
 * http://deckdown.org/ - creates slidedecks from Markdown files - online tool.
 * Forecasting for beginners - how to forecast delivery: https://www.infoq.com/presentations/forecasting-spreadsheet?utm_source=infoqemail&utm_medium=culture-methods&utm_campaign=newsletter&utm_content=07242018
 * [Pratical Guide to Build an API Backend with Spring Boot](https://www.infoq.com/minibooks/spring-boot-building-api-backend) - InfoQ mini book
@@ -149,5 +149,9 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 [EuroPLoP's pattern repository listing](http://europlop.net/content/repositories)
 [Hillside's patter repository listing](https://hillside.net/patterns/patterns-catalog)
 
+## Katas
+* [Architectural Katas](https://archkatas.herokuapp.com)
+* [Fitness Function Katas](http://evolutionaryarchitecture.com/ffkatas/index.html)
+
 ## Slightly more unorganised stuff of interest, but not strictly relating to software in any way
-[Thwink.org](http://thwink.org/index.htm) - Finding and Resolving the Root Cause of the Sustainability Problem. Not quite sure what this is but needs to be looked at, seems interesting.
+* [Thwink.org](http://thwink.org/index.htm) - Finding and Resolving the Root Cause of the Sustainability Problem. Not quite sure what this is but needs to be looked at, seems interesting.
