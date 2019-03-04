@@ -154,5 +154,8 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [Architectural Katas](https://archkatas.herokuapp.com)
 * [Fitness Function Katas](http://evolutionaryarchitecture.com/ffkatas/index.html)
 
+## Software Craft and Apprenticeship
+* [7 Ranks of Coderhood](https://www.coderhood.com/7-ranks-coder-programmer-computer-scientist-developer-engineer-architect/) - One way to define levels of mastery in crafters.
+
 ## Slightly more unorganised stuff of interest, but not strictly relating to software in any way
 * [Thwink.org](http://thwink.org/index.htm) - Finding and Resolving the Root Cause of the Sustainability Problem. Not quite sure what this is but needs to be looked at, seems interesting.
