@@ -157,5 +157,11 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 ## Software Craft and Apprenticeship
 * [7 Ranks of Coderhood](https://www.coderhood.com/7-ranks-coder-programmer-computer-scientist-developer-engineer-architect/) - One way to define levels of mastery in crafters.
 
+## Progression Frameworks/Engineering Ladders
+* [CapGemini UK's Engineering Grade Ladder](https://capgemini.gitbooks.io/grade-ladder/content/)
+* [Medium's Growth Ladder](https://medium.com/s/engineering-growth-framework/engineering-growth-introduction-8ba7b78c8d6c)
+* [Squeakyvessel's collection of frameworks and ladders](https://squeakyvessel.com/2016/07/11/engineering-ladders-links-elsewhere/)
+* [Monzo's progression frameowrk](https://progression.monzo.com/)
+
 ## Slightly more unorganised stuff of interest, but not strictly relating to software in any way
 * [Thwink.org](http://thwink.org/index.htm) - Finding and Resolving the Root Cause of the Sustainability Problem. Not quite sure what this is but needs to be looked at, seems interesting.
