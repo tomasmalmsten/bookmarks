@@ -51,6 +51,7 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [Docs as Code](https://docs-as-co.de) - A site dedicated to working with documentation as an automated part of the build cycle. Tooling and adivce.
 * [Building Evolutionary Architectures](http://evolutionaryarchitecture.com/)
 * [Impact Mapping](https://www.impactmapping.org)
+* [Empty projects for different languages with failing tests](https://github.com/swkBerlin/kata-bootstraps) - The basic setup needed for a code retreat or kode kata training session.
 
 
 ## Some random talks
