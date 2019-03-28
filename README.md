@@ -51,8 +51,6 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [Docs as Code](https://docs-as-co.de) - A site dedicated to working with documentation as an automated part of the build cycle. Tooling and adivce.
 * [Building Evolutionary Architectures](http://evolutionaryarchitecture.com/)
 * [Impact Mapping](https://www.impactmapping.org)
-* [Empty projects for different languages with failing tests](https://github.com/swkBerlin/kata-bootstraps) - The basic setup needed for a code retreat or kode kata training session.
-
 
 ## Some random talks
 * [Data visualisation with R](https://www.infoq.com/presentations/r-data-visualization?utm_source=twitter&utm_campaign=calendar&utm_medium=link) - Matthew Renze introduces the R programming language as well as demonstrates how R can be used to create data visualizations to complete day-to-day developer tasks.
@@ -151,9 +149,12 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 [EuroPLoP's pattern repository listing](http://europlop.net/content/repositories)
 [Hillside's patter repository listing](https://hillside.net/patterns/patterns-catalog)
 
-## Katas
+## Kata and Code Retreat resources
 * [Architectural Katas](https://archkatas.herokuapp.com)
 * [Fitness Function Katas](http://evolutionaryarchitecture.com/ffkatas/index.html)
+* [A collection of Legacy Code katas by Emily Bache](https://github.com/emilybache?tab=repositories)
+* [Empty projects for different languages with failing tests](https://github.com/swkBerlin/kata-bootstraps) - The basic setup needed for a code retreat or kode kata training session.
+* [Online code dojo](https://cyber-dojo.org/)
 
 ## Software Craft and Apprenticeship
 * [7 Ranks of Coderhood](https://www.coderhood.com/7-ranks-coder-programmer-computer-scientist-developer-engineer-architect/) - One way to define levels of mastery in crafters.
