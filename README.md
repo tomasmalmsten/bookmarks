@@ -155,6 +155,9 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [A collection of Legacy Code katas by Emily Bache](https://github.com/emilybache?tab=repositories)
 * [Empty projects for different languages with failing tests](https://github.com/swkBerlin/kata-bootstraps) - The basic setup needed for a code retreat or kode kata training session.
 * [Online code dojo](https://cyber-dojo.org/)
+* [Coffee Machine Project](https://simcap.github.io/coffeemachine/)
+* [Katacombs game](https://github.com/conso/katacombs)
+* [Train Reservation Kata](https://github.com/emilybache/KataTrainReservation)
 
 ## Software Craft and Apprenticeship
 * [7 Ranks of Coderhood](https://www.coderhood.com/7-ranks-coder-programmer-computer-scientist-developer-engineer-architect/) - One way to define levels of mastery in crafters.
