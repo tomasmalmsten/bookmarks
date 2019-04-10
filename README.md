@@ -51,6 +51,7 @@ A collections of bookmarks to interesting stuff, some read or watched, some not.
 * [Docs as Code](https://docs-as-co.de) - A site dedicated to working with documentation as an automated part of the build cycle. Tooling and adivce.
 * [Building Evolutionary Architectures](http://evolutionaryarchitecture.com/)
 * [Impact Mapping](https://www.impactmapping.org)
+* [Java Regex Tester](https://www.freeformatter.com/java-regex-tester.html)
 
 ## Some random talks
 * [Data visualisation with R](https://www.infoq.com/presentations/r-data-visualization?utm_source=twitter&utm_campaign=calendar&utm_medium=link) - Matthew Renze introduces the R programming language as well as demonstrates how R can be used to create data visualizations to complete day-to-day developer tasks.
